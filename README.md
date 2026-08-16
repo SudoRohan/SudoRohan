@@ -63,7 +63,7 @@ SudoRohan@github:~$ cat profile.txt
 ![](https://github-readme-stats.vercel.app/api?username=SudoRohan&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoRohan&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Gitartwork](https://raw.githubusercontent.com/ElliotTerminal/ElliotTerminal/279c60dc288cc05ead88a5069559a6951b466146/gitartwork.svg)
+![gitartwork](gitartwork.svg)
 
 </div>
 
